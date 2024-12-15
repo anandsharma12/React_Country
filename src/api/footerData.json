@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "Delhi"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "+91-9034075869"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "mranandsharma003@gmail.com"
+    }
+]
